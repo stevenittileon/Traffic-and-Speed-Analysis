@@ -10,7 +10,7 @@ This script analyzes traffic flow using YOLOv8 for object detection and ByteTrac
   
 4. **Vehicles' direction Panel**: Depicting the number of cars from each side of the intersection that chose a particular exit.
 
-![ScreenShot](src/img/screenshot.png)
+![ScreenShot](data/Screenshot 2026-01-29 123606.png)
 <br><br>
 
 ## How to Run
