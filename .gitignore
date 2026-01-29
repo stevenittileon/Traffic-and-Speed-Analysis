@@ -38,6 +38,10 @@ runs/
 # --- Generated videos / outputs (keep inputs + weights tracked) ---
 data/output*.mp4
 data/*_result.*
+data/*.mp4
 
 # --- Logs ---
 *.log
+
+data/*.mp4
+
